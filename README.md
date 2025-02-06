@@ -2,7 +2,6 @@
 The frontend UI design is by [BlueSky428](https://github.com/BlueSky428/Clothing-eCommerce-Shop), but the javascript was heavily modified to incorporate the backend Go server's functionality. 
 
 Built using Golang, Oracle Database and incorporates Stripe's API.
-![alt text](screenshots/5.png)
 
 
 ## Homepage
